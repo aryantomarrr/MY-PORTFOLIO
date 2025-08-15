@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="200" viewBox="0 0 500 200">
+  <!-- CETPA text -->
+  <text x="20" y="90" font-family="Arial Black, Arial, sans-serif"
+        font-size="80" font-weight="900" font-style="italic"
+        fill="#00008B" letter-spacing="4">CETPA</text>
+  
+  <!-- Red lines -->
+  <line x1="20" y1="110" x2="420" y2="110" stroke="#FF0000" stroke-width="4"/>
+  <line x1="20" y1="130" x2="420" y2="130" stroke="#FF0000" stroke-width="4"/>
+  
+  <!-- Infotech text -->
+  <text x="20" y="170" font-family="Arial, sans-serif"
+        font-size="40" font-weight="bold"
+        fill="#000000">INFOTECH PVT. LTD.</text>
+</svg>
